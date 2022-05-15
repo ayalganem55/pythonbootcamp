@@ -50,4 +50,4 @@ def show_wizards():
     for wizard in wizards:
         print (wizard)
 
-show_wizards(wizards)
+show_wizards(wizards) # You have a bug here, the function show_wizards didn't get any parameter, please fix it.
